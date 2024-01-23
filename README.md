@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Chris! 👋
 
-<!--
-**unnamedChris/unnamedChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT professional and programmer passionate about creating software solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- C# .NET
+- Java
+- Python
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Socials
+- Website: [http://unnamedChris.xyz](http://unnamedChris.xyz)
+- YouTube: [@unnamedChris](https://www.youtube.com/@unnamedChris)
+
+- Email: chris@unnamed-media.com
+
+## Motto
+
+"Dream Big, Fight Hard, Live Proud"
+
+## 🟣 Let's Code Together! 🟣
+
+If you have any questions or just want to connect, don't hesitate to reach out.
+
+Happy coding! 🚀
