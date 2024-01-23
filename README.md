@@ -6,8 +6,7 @@ I am an IT professional and programmer passionate about creating software soluti
 - C# .NET
 - Java
 - Python
-- HTML
-- CSS
+- HTML & CSS
 
 ## My Socials
 - Website: [http://unnamedChris.xyz](http://unnamedChris.xyz)
