@@ -12,7 +12,7 @@ I am an IT professional and programmer passionate about creating software soluti
 - Website: [http://unnamedChris.xyz](http://unnamedChris.xyz)
 - YouTube: [@unnamedChris](https://www.youtube.com/@unnamedChris)
 
-- Email: chris@unnamed-media.com
+- Email: [management@unnamed-media.com](mailto:management@unnamed-media.com)
 
 ## Motto
 
