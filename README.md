@@ -14,7 +14,7 @@ I am an IT professional and programmer passionate about creating software soluti
 - English
 
 ## My Socials
-- Website: [http://unnamedChris.xyz](http://unnamedChris.xyz)
+- Website: [http://www.unnamedChris.xyz](http://www.unnamedChris.xyz)
 - YouTube: [@unnamedChris](https://www.youtube.com/@unnamedChris)
 
 - Email: [management@unnamed-media.com](mailto:management@unnamed-media.com)
