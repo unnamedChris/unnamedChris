@@ -1,6 +1,6 @@
 # Hi, I'm Chris! 👋
 
-I am an IT professional and programmer passionate about creating software solutions and exploring new technologies.
+I am an IT professional and programmer passionate about creating software solutions and exploring new technologies. I currently live in Switzerland, near Zurich, but I am originally from Germany, more specifically from near Stuttgart. I work at a small startup in software development and system administration, and I moved to Switzerland for this job back in 2022.
 
 ## Technologies & Tools
 - C# .NET
