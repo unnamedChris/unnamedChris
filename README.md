@@ -10,8 +10,8 @@ I am an IT professional and programmer passionate about creating software soluti
 - and some more...
 
 ## Languages
-- German
-- English
+- German *(native)*
+- English *(fluent)*
 
 ## My Socials
 - Website: [http://www.unnamedChris.xyz](http://www.unnamedChris.xyz)
