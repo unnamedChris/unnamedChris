@@ -20,11 +20,9 @@ I am an IT professional and programmer passionate about creating software soluti
 - Email: [management@unnamed-media.com](mailto:management@unnamed-media.com)
 
 ## Motto
-
 "Dream Big, Fight Hard, Live Proud and Create The Future, One Piece At A Time."
 
 ## 🟣 Let's Code Together! 🟣
-
 If you have any questions or just want to connect, don't hesitate to reach out.
 
-Happy coding! 🚀
+**Happy coding! 🚀**
